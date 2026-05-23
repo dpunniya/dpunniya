@@ -20,7 +20,7 @@ Recent MS Computer Engineering graduate from Syracuse University specializing in
 - 🌱 Learning **FastAPI, LangChain, ChromaDB**
 - 👯 Open to **AI Engineer, ML Engineer, Data Scientist** roles
 - 📍 Syracuse, NY → Open to relocate anywhere in the US
-- ⚡ Fun fact: I built a live AI security tool in one day!
+- ⚡ Fun fact: 90% of my projects worked after I threatened to give up
 
 ---
 
