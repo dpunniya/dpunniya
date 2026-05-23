@@ -93,8 +93,8 @@ Deep learning pipeline using ResNet-50 and PyTorch with fairness-aware training 
 
 <div align="center">
 
-### 💼 Open to Work — AI Engineer | ML Engineer | Data Scientist
+### 💼 Open to AI Engineer · GenAI Engineer · ML Engineer · Software Engineer roles across the US
 
-*Available June 15, 2026 | F-1 OPT | Open to relocate anywhere in the US*
+*Open to relocate anywhere in the US*
 
 </div>
